@@ -7,6 +7,13 @@
   "scripts": {
     "start": "node server.js"
   },
+  "engines": {
+    "node": "14.1.0"
+  },
+  "keywords": [
+    "game",
+    "heroku"
+  ],
   "repository": {
     "type": "git",
     "url": "git+https://github.com/Matheus1714/game-multiplayer.git"
