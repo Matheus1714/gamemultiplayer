@@ -1,3 +1,5 @@
+'use strict'
+
 import express from 'express'
 import http from 'http'
 import createGame from './public/game.js'
@@ -8,6 +10,8 @@ const server = http.createServer(app)
 const sockets = socketio(server)
 
 app.use(express.static('public'))
+
+
 
 const game = createGame()
 game.start()
