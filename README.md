@@ -1,4 +1,4 @@
-![gamemultiplayer](img/logo.png)
+![gamemultiplayer](img/logo.PNG)
 
 # Game Multiplayer
 
